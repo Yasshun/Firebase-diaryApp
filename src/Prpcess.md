@@ -1,0 +1,3 @@
+入力した内容を投稿
+firestoreに追加
+firestoreの内容を表示
